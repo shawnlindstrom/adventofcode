@@ -8,9 +8,7 @@ in a production application. For example, the inline comments are for the benefi
 were used to make consuming input and returning the output of day parts more convenient.
 
 ### Questions? Comments?
-Let me know if you have any suggestions about how I could improve upon any of the solutions presented. The solutions
-I arrived at reflect the way I would go about solving each problem and I'm sure there are many other ways each
-could be approached.
+Let me know if you have any suggestions about how I could improve upon any of the solutions presented.
 
 ### Thanks...
 [Advent of Code](https://adventofcode.com) for putting this together! 
